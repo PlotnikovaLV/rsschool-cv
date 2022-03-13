@@ -28,7 +28,7 @@ I like to learn, improve and grow. Even at school, I chose a mathematical profil
 ## Code Example
 + **JavaScript**
 
-#### *Function strCount (takes an object as an argument) count all string values inside the object, including nested ones:*
+#### Function strCount (takes an object as an argument) count all string values inside the object, including nested ones:
 ```
 function strCount(obj){
   let n = 0;
@@ -45,7 +45,7 @@ function strCount(obj){
 
 + **Python**
 
-#### *Creating a 9x9 Sudoku table:*
+#### Creating a 9x9 Sudoku table:
 #### def_file.py
 
 ```
