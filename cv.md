@@ -1,4 +1,5 @@
 # Liudmila Plotnikava
+![PREVIEW photographer's portfolio](/img/ava.jpg)
 
 ## Contacts
 * Phone: +375(29)256-80-11
@@ -6,6 +7,7 @@
 * Telegram: @plv2121
 * LinkedIn: [@plv2121](https://www.linkedin.com/in/plv2121/)
 * GitHub: [PlotnikovaLV](https://github.com/PlotnikovaLV)
+* discord-nik: Plotnikova#7817
 * Location: Uzda, Belarus
 
 ## About Me
@@ -25,8 +27,8 @@ I like to learn, improve and grow. Even at school, I chose a mathematical profil
 
 ## Code Example
 + **JavaScript**
-### *Function strCount (takes an object as an argument) count all string values inside the object, including nested ones:*
 
+#### *Function strCount (takes an object as an argument) count all string values inside the object, including nested ones:*
 ```
 function strCount(obj){
   let n = 0;
@@ -42,7 +44,8 @@ function strCount(obj){
 ```
 
 + **Python**
-### *Creating a 9x9 Sudoku table:*
+
+#### *Creating a 9x9 Sudoku table:*
 #### def_file.py
 
 ```
