@@ -161,7 +161,7 @@ def_file.print_square(tuple_square[0])
 
 ## Courses
 * IT-Overone. [Python programming language, Python back-end developer](https://overone.by/python#!/tab/403925666-1 "Course program").
-* RS School. [JS / front-end, stage 0 (ru)](https://app.rs.school/certificate/dxg6778o "Certificate").
+* RS School. [JS / front-end, stage 0 (ru)](https://app.rs.school/certificate/acwaj4wa "Certificate").
 * at moment student RS School. [JS / front-end (ru)](https://rs.school/js/ "Course «JavaScript/Front-end»").
 
 ## Languages
