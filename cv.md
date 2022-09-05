@@ -14,12 +14,13 @@
 I like to learn, improve and grow. Even at school, I chose a mathematical profile of study, and after graduating from university, I switched to programming. I am fascinated by mental work, I am fascinated by ideological work. My goal is to become the best front-end developer. My hobbies are hiking and running. I love my kids and driving a car)))
 
 ## Experience
-* System Administrator, 2014 to the present...
+* Software Engineer, june 2022 to the present...
+* System Administrator, 2014-2022.
 * Software Engineer, 2012-2014.
 * Computer Science Teacher, 2007-2011.
 
 ## Skills
-1. Windows OS, LAN, WLAN, MS Office - advanced
+1. Windows Desctop, Windows Server, LAN, WLAN, MS Office - advanced
 2. Routing protocols - confident
 3. Python, JavaScript - intermediate
 4. HTML5, CSS3, Django, Git, GitHub, Editors: VSCode and PyCharm - beginner
