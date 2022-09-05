@@ -20,7 +20,7 @@ I like to learn, improve and grow. Even at school, I chose a mathematical profil
 * Computer Science Teacher, 2007-2011.
 
 ## Skills
-1. Windows Desctop, Windows Server, LAN, WLAN, MS Office - advanced
+1. Windows Desktop, Windows Server, LAN, WLAN, MS Office - advanced
 2. Routing protocols - confident
 3. Python, JavaScript - intermediate
 4. HTML5, CSS3, Django, Git, GitHub, Editors: VSCode and PyCharm - beginner
