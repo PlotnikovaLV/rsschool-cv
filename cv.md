@@ -11,7 +11,7 @@
 * Location: Uzda, Belarus
 
 ## About Me
-I like to learn, improve and grow. Even at school, I chose a mathematical profile of study, and after graduating from university, I switched to programming. I am fascinated by mental work, I am fascinated by ideological work. My goal is to become the best front-end developer. My hobbies are hiking and running. I love my kids and driving a car)))
+I like to learn, improve and grow. Even at school, I chose a mathematical profile of study, and after graduating from university, I switched to programming. I am fascinated by mental work, I am fascinated by ideological work. My goal is to become the best front-end developer. My hobbies are kayaking, cycling and running. I love my two children and drive a car)))
 
 ## Experience
 * Software Engineer, june 2022 to the present...
