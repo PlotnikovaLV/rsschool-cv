@@ -3,7 +3,7 @@
 
 ## Contacts
 * Phone: +375(29)256-80-11
-* Email: l.plotikova.v@gmail.com
+* Email: l.plotnikova.v@gmail.com
 * Telegram: @plv2121
 * LinkedIn: [@plv2121](https://www.linkedin.com/in/plv2121/)
 * GitHub: [PlotnikovaLV](https://github.com/PlotnikovaLV)
